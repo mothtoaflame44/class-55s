@@ -1,0 +1,8 @@
+
+ OOP - concept
+
+
+constructor - build something(object) => _construct()
+destructor - destroy something(object) => _destruct()
+
+inheritence
